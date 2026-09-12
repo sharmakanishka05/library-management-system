@@ -1,0 +1,17 @@
+# Java build files
+Project/build/
+*.class
+
+# NetBeans private files
+Project/nbproject/private/
+
+# Derby database/log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
